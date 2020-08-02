@@ -114,7 +114,7 @@ if __name__ == '__main__':
 
     # Set to true if you want to overwrite the previously trained models and save new ones
     save_models = False
-    save_results = True
+    save_results = False
 
     # Task 1 - 149 [1.289 3.333 0.614 0.57 0.46]
     # Task 2 - 581 [1.756 6.022 0.837 1.03  0.066]
