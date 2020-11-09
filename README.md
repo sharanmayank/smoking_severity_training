@@ -1,5 +1,12 @@
 # Instructions to setup and run
 
+For Training Classifiers and the Regression presented in the paper
+
+1. Please use python 3.6
+2. After downloading the code run pip install -r requirements.txt
+3. For training classifiers use final_analysis/train_classifier.py
+4. For training regression on the task 2 feature of num switches use final_analysis/train_task_2_feat_reg.py
+
 For Running the test
 
 1. Please ensure Java 8 is installed
