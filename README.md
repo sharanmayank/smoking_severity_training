@@ -21,11 +21,16 @@ For Lasso
 
 For Generating features
 
-1. Files can be found in extract_features
-2. task\<i\>analysis.py contains the code to generate the features for task i
-3. The raw data is available in data folder that can be used to extract more features
+1. Please use python 3.6
+2. After downloading the code run pip install -r requirements.txt
+3. Files can be found in extract_features
+4. task\<i\>analysis.py contains the code to generate the features for task i
+5. The raw data is available in data folder that can be used to extract more features
 
 For Visualising task data
 
-1. Code can be found in extract_features
-2. task\<i\>vis.py contains the code to generate an animation representing the task for a given subject
+1. Please use python 3.6
+2. After downloading the code run pip install -r requirements.txt
+3. In case tkinter is not installed please install using sudo apt-get install python3-tk
+4. Code can be found in extract_features
+5. task\<i\>vis.py contains the code to generate an animation representing the task for a given subject
