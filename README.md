@@ -1,5 +1,12 @@
 # Instructions to setup and run
 
+For Running the test
+
+1. Please ensure Java 8 is installed
+2. Files can be found in run_test
+3. Connect the eye tribe eye tracker and initialize and calibrate it
+4. The test can be started by running the file run_test/src/Test.java
+
 For Random Forest, SVR and Ridge
 
 1. Please use python 3.6
